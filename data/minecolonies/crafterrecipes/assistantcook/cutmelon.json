@@ -1,0 +1,12 @@
+{
+	"type": "recipe",
+	"crafter": "cookassistant_crafting",
+	"inputs": [
+		{
+			"item":"minecraft:melon"
+		}
+	],
+	"intermediate": "farmersdelight:cutting_board",
+	"count":"9",
+	"result":"minecraft:melon_slice"
+}

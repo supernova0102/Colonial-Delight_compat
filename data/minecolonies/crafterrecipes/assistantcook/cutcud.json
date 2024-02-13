@@ -1,0 +1,17 @@
+{
+	"type": "recipe",
+	"crafter": "cookassistant_crafting",
+	"inputs": [
+		{
+			"item":"minecraft:cod"
+		}
+	],
+	"intermediate": "farmersdelight:cutting_board",
+	"count":"2",
+	"result":"farmersdelight:cod_slice",
+	"additional-output":[
+		{
+			"item":"minecraft:bone_meal"
+		}
+	]
+}

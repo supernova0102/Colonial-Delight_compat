@@ -1,0 +1,12 @@
+{
+	"type": "recipe",
+	"crafter": "cookassistant_crafting",
+	"inputs": [
+		{
+			"item":"farmersdelight:cabbage"
+		}
+	],
+	"intermediate": "farmersdelight:cutting_board",
+	"count":"2",
+	"result":"farmersdelight:cabbage_leaf"
+}
