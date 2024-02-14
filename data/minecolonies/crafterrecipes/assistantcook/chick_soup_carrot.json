@@ -1,0 +1,21 @@
+{
+  "type": "recipe",
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "minecraft:bowl"
+      },
+      {
+        "item": "farmersdelight:cabbage_leaf"
+      },
+      {
+        "item": "minecraft:carrot",
+        "count": 2
+      },
+      {
+        "farmersdelight:chicken_cuts"
+      }
+    ],
+    "result": "farmersdelight:chicken_cuts",
+    "min-building-level": 4
+}

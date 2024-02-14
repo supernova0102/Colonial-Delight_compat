@@ -1,0 +1,11 @@
+{
+    "type": "recipe",
+    "count": 3,
+    "crafter": "cookassistant_crafting",
+    "inputs": [
+      {
+        "item": "farmersdelight:kelp_roll"
+      }
+    ],
+    "result": "farmersdelight:kelp_roll_slice"
+ }

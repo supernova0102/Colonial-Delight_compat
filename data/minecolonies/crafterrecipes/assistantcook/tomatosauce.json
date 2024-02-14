@@ -4,12 +4,12 @@
     "crafter": "cookassistant_crafting",
     "inputs": [
       {
-        "item": 'farmersdelight:tomato',
+        "item": "farmersdelight:tomato",
         "count": 2
       },
       {
         "item": "minecraft:bowl"
       }
     ],
-    "result": 'farmersdelight:tomato_sauce'
+    "result": "farmersdelight:tomato_sauce"
   }
