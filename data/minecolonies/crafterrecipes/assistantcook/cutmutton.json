@@ -6,7 +6,8 @@
 			"item":"minecraft:mutton"
 		}
 	],
-	"intermediate": "farmersdelight:cutting_board",
 	"count":"2",
-	"result":"farmersdelight:mutton_chops"
+	"result":"farmersdelight:mutton_chops",
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

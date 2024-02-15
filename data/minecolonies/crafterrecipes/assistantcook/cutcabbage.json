@@ -6,7 +6,8 @@
 			"item":"farmersdelight:cabbage"
 		}
 	],
-	"intermediate": "farmersdelight:cutting_board",
 	"count":"2",
-	"result":"farmersdelight:cabbage_leaf"
+	"result":"farmersdelight:cabbage_leaf",
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

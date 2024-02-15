@@ -6,7 +6,8 @@
 			"item":"minecolonies:bread_dough"
 		}
 	],
-	"intermediate": "farmersdelight:cutting_board",
 	"count":1,
-	"result":"farmersdelight:raw_pasta"
+	"result":"farmersdelight:raw_pasta",
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

@@ -3,11 +3,11 @@
 	"crafter": "cookassistant_crafting",
 	"inputs": [
 		{
-			"item":"minecraft:porkchop"
+			"item":"minecraft:beef"
 		}
 	],
-	"count":"2",
-	"result":"farmersdelight:bacon",
 	"intermediate": "minecraft:air",
+	"count":"2",
+	"result":"farmersdelight:minced_beef",
 	"tool": "knives"
 }

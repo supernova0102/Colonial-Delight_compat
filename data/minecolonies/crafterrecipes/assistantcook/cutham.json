@@ -6,12 +6,13 @@
 			"item":"farmersdelight:ham"
 		}
 	],
-	"intermediate": "minecraft:air",
 	"count":"2",
 	"result":"minecraft:porkchop",
 	"additional-output":[
 		{
 			"item":"minecraft:bone"
 		}
-	]
+	],
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

@@ -6,7 +6,8 @@
 			"item":"minecraft:pumpkin"
 		}
 	],
-	"intermediate": "farmersdelight:cutting_board",
 	"count":"4",
-	"result":"farmersdelight:pumpkin_slice"
+	"result":"farmersdelight:pumpkin_slice",
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

@@ -6,12 +6,13 @@
 			"item":"minecraft:salmon"
 		}
 	],
-	"intermediate": "farmersdelight:cutting_board",
 	"count":"2",
 	"result":"farmersdelight:salmon_slice",
 	"additional-output":[
 		{
 			"item":"minecraft:bone_meal"
 		}
-	]
+	],
+	"intermediate": "minecraft:air",
+	"tool": "knives"
 }

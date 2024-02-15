@@ -3,17 +3,17 @@
     "crafter": "cookassistant_crafting",
     "inputs": [
       {
-        "item": "farmersdelight:tomato",
-        "count": 2
+        "item": "minecraft:beetroot"
       },
       {
         "item": "minecraft:bowl"
       },
       {
-        "item": "farmersdelight:onion"
+        "item": "farmersdelight:tomato",
+        "count": 2
       },
       {
-        "item": "minecraft:beetroot"
+        "item": "farmersdelight:onion"
       }
     ],
     "result": "farmersdelight:ratatouille",
