@@ -1,13 +1,16 @@
 {
-    "type": "recipe",
-    "count": 1,
+  "type": "recipe",
     "crafter": "cookassistant_crafting",
     "inputs": [
       {
         "item": "farmersdelight:rice"
       },
       {
-        "item": "minecraft:bowl"
+        "item": "farmersdelight:onion",
+        "count": 2
+      },
+      {
+        "item": "minecraft:pumpkin"
       },
       {
         "item": "minecraft:potato"
@@ -16,9 +19,9 @@
         "item": "minecraft:brown_mushroom"
       },
       {
-        "item": "minecraft:red_mushroom"
+        "item": "minecraft:sweet_berries"
       }
     ],
-    "result": "farmersdelight:mushroom_rice",
+    "result": "farmersdelight:stuffed_pumpkin_block",
     "min-building-level": 5
-  }
+}

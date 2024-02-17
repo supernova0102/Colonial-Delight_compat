@@ -13,12 +13,11 @@
       },
       {
         "item": "minecraft:dried_kelp"
-      }
-      ,
+      },
       {
         "item": "farmersdelight:bacon"
       }
     ],
     "result": "farmersdelight:noodle_soup",
-    "min-building-level": 4
+    "min-building-level": 5
 }

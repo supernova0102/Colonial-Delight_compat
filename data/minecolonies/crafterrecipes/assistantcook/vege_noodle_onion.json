@@ -18,9 +18,9 @@
         "item": "minecraft:carrot"
       },
       {
-        "farmersdelight:cabbage_leaf"
+        "item": "farmersdelight:cabbage_leaf"
       }
     ],
     "result": "farmersdelight:vegetable_noodles",
-    "min-building-level": 4
+    "min-building-level": 5
 }

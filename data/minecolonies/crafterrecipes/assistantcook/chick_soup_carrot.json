@@ -13,9 +13,9 @@
         "count": 2
       },
       {
-        "farmersdelight:chicken_cuts"
+        "item":"farmersdelight:chicken_cuts"
       }
     ],
-    "result": "farmersdelight:chicken_cuts",
-    "min-building-level": 4
+    "result": "farmersdelight:chicken_soup",
+    "min-building-level": 5
 }

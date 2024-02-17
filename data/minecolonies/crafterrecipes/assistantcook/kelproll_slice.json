@@ -7,5 +7,6 @@
         "item": "farmersdelight:kelp_roll"
       }
     ],
-    "result": "farmersdelight:kelp_roll_slice"
+    "result": "farmersdelight:kelp_roll_slice",
+    "tool":"knives"
  }
